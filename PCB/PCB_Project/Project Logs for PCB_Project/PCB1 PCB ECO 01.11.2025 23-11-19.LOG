@@ -1,0 +1,115 @@
+Added Component: Designator=DA1(TP4057)
+Added Component: Designator=DD2(raspberryPiPico)
+Added Component: Designator=HG1(OledI2C)
+Added Component: Designator=HL1(LED)
+Added Component: Designator=HL2(LED)
+Added Component: Designator=HL3(LED)
+Added Component: Designator=HL4(LED)
+Added Component: Designator=HL5(LED)
+Added Component: Designator=HL6(LED)
+Added Component: Designator=R1(Resistor)
+Added Component: Designator=R2(Resistor)
+Added Component: Designator=R3(Resistor)
+Added Component: Designator=R4(Resistor)
+Added Component: Designator=R5(Resistor)
+Added Component: Designator=R6(Resistor)
+Added Component: Designator=SW4(PowerButton)
+Added Component: Designator=XS1(18650ÐHolder)
+Added Component: Designator=XS2(gpio4)
+Added Component: Designator=XS3(gpio4)
+Added Component: Designator=XS4(gpio4)
+Added Component: Designator=XS5(gpio4)
+Added Component: Designator=XS6(gpio4)
+Added Component: Designator=XS7(gpio4)
+Added Pin To Net: NetName=+3.3V Pin=DD2-36
+Added Pin To Net: NetName=+3.3V Pin=HG1-1
+Added Pin To Net: NetName=+3.3V Pin=HL1-1
+Added Pin To Net: NetName=+3.3V Pin=HL2-1
+Added Pin To Net: NetName=+3.3V Pin=HL3-1
+Added Pin To Net: NetName=+3.3V Pin=HL4-1
+Added Pin To Net: NetName=+3.3V Pin=HL5-1
+Added Pin To Net: NetName=+3.3V Pin=HL6-1
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5V Pin=DD2-39
+Added Pin To Net: NetName=+5V Pin=SW4-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=GND Pin=DA1-5
+Added Pin To Net: NetName=GND Pin=DD2-3
+Added Pin To Net: NetName=GND Pin=DD2-8
+Added Pin To Net: NetName=GND Pin=DD2-13
+Added Pin To Net: NetName=GND Pin=DD2-18
+Added Pin To Net: NetName=GND Pin=DD2-23
+Added Pin To Net: NetName=GND Pin=DD2-28
+Added Pin To Net: NetName=GND Pin=DD2-33
+Added Pin To Net: NetName=GND Pin=DD2-38
+Added Pin To Net: NetName=GND Pin=HG1-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetDA1_3 Pin=DA1-3
+Added Pin To Net: NetName=NetDA1_3 Pin=XS1-1
+Added Net: Name=NetDA1_3
+Added Pin To Net: NetName=NetDA1_4 Pin=DA1-4
+Added Pin To Net: NetName=NetDA1_4 Pin=XS1-2
+Added Net: Name=NetDA1_4
+Added Pin To Net: NetName=NetDA1_6 Pin=DA1-6
+Added Pin To Net: NetName=NetDA1_6 Pin=SW4-1
+Added Net: Name=NetDA1_6
+Added Pin To Net: NetName=NetDD1_15 Pin=DD2-21
+Added Net: Name=NetDD1_15
+Added Pin To Net: NetName=NetDD1_16 Pin=DD2-22
+Added Net: Name=NetDD1_16
+Added Pin To Net: NetName=NetDD2_1 Pin=DD2-1
+Added Pin To Net: NetName=NetDD2_1 Pin=HG1-4
+Added Net: Name=NetDD2_1
+Added Pin To Net: NetName=NetDD2_2 Pin=DD2-2
+Added Pin To Net: NetName=NetDD2_2 Pin=HG1-3
+Added Net: Name=NetDD2_2
+Added Pin To Net: NetName=NetDD2_6 Pin=DD2-6
+Added Net: Name=NetDD2_6
+Added Pin To Net: NetName=NetDD2_7 Pin=DD2-7
+Added Net: Name=NetDD2_7
+Added Pin To Net: NetName=NetDD2_9 Pin=DD2-9
+Added Pin To Net: NetName=NetDD2_9 Pin=R6-2
+Added Net: Name=NetDD2_9
+Added Pin To Net: NetName=NetDD2_10 Pin=DD2-10
+Added Pin To Net: NetName=NetDD2_10 Pin=R5-2
+Added Net: Name=NetDD2_10
+Added Pin To Net: NetName=NetDD2_11 Pin=DD2-11
+Added Pin To Net: NetName=NetDD2_11 Pin=DD2-12
+Added Pin To Net: NetName=NetDD2_11 Pin=R4-2
+Added Net: Name=NetDD2_11
+Added Pin To Net: NetName=NetDD2_14 Pin=DD2-14
+Added Pin To Net: NetName=NetDD2_14 Pin=R2-2
+Added Net: Name=NetDD2_14
+Added Pin To Net: NetName=NetDD2_15 Pin=DD2-15
+Added Pin To Net: NetName=NetDD2_15 Pin=R1-2
+Added Net: Name=NetDD2_15
+Added Pin To Net: NetName=NetDD2_16 Pin=DD2-16
+Added Pin To Net: NetName=NetDD2_16 Pin=HL1-2
+Added Net: Name=NetDD2_16
+Added Pin To Net: NetName=NetDD2_17 Pin=DD2-17
+Added Pin To Net: NetName=NetDD2_17 Pin=HL2-2
+Added Net: Name=NetDD2_17
+Added Pin To Net: NetName=NetDD2_19 Pin=DD2-19
+Added Pin To Net: NetName=NetDD2_19 Pin=HL3-2
+Added Net: Name=NetDD2_19
+Added Pin To Net: NetName=NetDD2_20 Pin=DD2-20
+Added Pin To Net: NetName=NetDD2_20 Pin=HL4-2
+Added Net: Name=NetDD2_20
+Added Pin To Net: NetName=NetDD2_24 Pin=DD2-24
+Added Pin To Net: NetName=NetDD2_24 Pin=HL5-2
+Added Net: Name=NetDD2_24
+Added Pin To Net: NetName=NetDD2_25 Pin=DD2-25
+Added Pin To Net: NetName=NetDD2_25 Pin=HL6-2
+Added Net: Name=NetDD2_25
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Net: Name=NetR3_2
+Added Class: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
