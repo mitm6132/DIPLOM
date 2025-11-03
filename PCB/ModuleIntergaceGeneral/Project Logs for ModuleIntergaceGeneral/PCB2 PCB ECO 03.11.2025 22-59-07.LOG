@@ -1,0 +1,26 @@
+Added Component: Designator=R1(Resistor)
+Added Component: Designator=R2(Resistor)
+Added Component: Designator=R3(Resistor)
+Added Component: Designator=SW1(button)
+Added Component: Designator=SW2(button)
+Added Component: Designator=SW3(button)
+Added Pin To Net: NetName=+5V Pin=SW1-2
+Added Pin To Net: NetName=+5V Pin=SW2-2
+Added Pin To Net: NetName=+5V Pin=SW3-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=SW1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=SW2-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=SW3-1
+Added Net: Name=NetR3_2
+Added Class: Name=Sheet2
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

@@ -1,0 +1,7 @@
+Added Component: Designator=XS1(ConnectionModule)
+Added Pin To Net: NetName=GND Pin=XS1-1
+Added Pin To Net: NetName=+5V Pin=XS1-2
+Added Pin To Net: NetName=NetR1_2 Pin=XS1-3
+Added Pin To Net: NetName=NetR2_2 Pin=XS1-4
+Added Pin To Net: NetName=NetR3_2 Pin=XS1-5
+Added Member To Class: ClassName=Sheet2 Member=Component XS1 Connector

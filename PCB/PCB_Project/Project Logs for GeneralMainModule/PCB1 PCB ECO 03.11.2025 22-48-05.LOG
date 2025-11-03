@@ -1,0 +1,8 @@
+Added Component: Designator=XS?(ConnectionModule)
+Added Pin To Net: NetName=GND Pin=XS?-1
+Added Pin To Net: NetName=+5V Pin=XS?-2
+Added Pin To Net: NetName=NetDD2_11 Pin=XS?-3
+Added Pin To Net: NetName=NetDD2_10 Pin=XS?-4
+Added Pin To Net: NetName=NetDD2_9 Pin=XS?-5
+Added Member To Class: ClassName=Sheet1 Member=Component XS1 Power
+Added Member To Class: ClassName=Sheet1 Member=Component XS? Connector

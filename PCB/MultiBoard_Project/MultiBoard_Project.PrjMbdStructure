@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=MD2|Source=..\ModuleIntergaceGeneral\ModuleIntergaceGeneral.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\ModuleIntergaceGeneral\ModuleIntergaceGeneral.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=MD1|Source=..\PCB_Project\GeneralMainModule.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\PCB_Project\GeneralMainModule.PrjPcb
