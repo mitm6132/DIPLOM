@@ -1,0 +1,36 @@
+Added Component: Designator=XS2(gpio4)
+Added Component: Designator=XS3(gpio4)
+Added Component: Designator=XS4(gpio4)
+Added Component: Designator=XS5(gpio4)
+Added Component: Designator=XS6(gpio4)
+Added Component: Designator=XS7(gpio4)
+Added Pin To Net: NetName=+3.3V Pin=XS2-1
+Added Pin To Net: NetName=NetDD2_6 Pin=XS2-2
+Added Pin To Net: NetName=NetDD2_7 Pin=XS2-3
+Added Pin To Net: NetName=GND Pin=XS2-4
+Added Pin To Net: NetName=+3.3V Pin=XS3-1
+Added Pin To Net: NetName=NetDD2_6 Pin=XS3-2
+Added Pin To Net: NetName=NetDD2_7 Pin=XS3-3
+Added Pin To Net: NetName=GND Pin=XS3-4
+Added Pin To Net: NetName=+3.3V Pin=XS4-1
+Added Pin To Net: NetName=NetDD2_6 Pin=XS4-2
+Added Pin To Net: NetName=NetDD2_7 Pin=XS4-3
+Added Pin To Net: NetName=GND Pin=XS4-4
+Added Pin To Net: NetName=+3.3V Pin=XS5-1
+Added Pin To Net: NetName=NetDD2_6 Pin=XS5-2
+Added Pin To Net: NetName=NetDD2_7 Pin=XS5-3
+Added Pin To Net: NetName=GND Pin=XS5-4
+Added Pin To Net: NetName=+3.3V Pin=XS6-1
+Added Pin To Net: NetName=NetDD2_6 Pin=XS6-2
+Added Pin To Net: NetName=NetDD2_7 Pin=XS6-3
+Added Pin To Net: NetName=GND Pin=XS6-4
+Added Pin To Net: NetName=+3.3V Pin=XS7-1
+Added Pin To Net: NetName=NetDD2_6 Pin=XS7-2
+Added Pin To Net: NetName=NetDD2_7 Pin=XS7-3
+Added Pin To Net: NetName=GND Pin=XS7-4
+Added Member To Class: ClassName=Sheet1 Member=Component XS2 I2C
+Added Member To Class: ClassName=Sheet1 Member=Component XS3 I2C
+Added Member To Class: ClassName=Sheet1 Member=Component XS4 I2C
+Added Member To Class: ClassName=Sheet1 Member=Component XS5 I2C
+Added Member To Class: ClassName=Sheet1 Member=Component XS6 I2C
+Added Member To Class: ClassName=Sheet1 Member=Component XS7 I2C

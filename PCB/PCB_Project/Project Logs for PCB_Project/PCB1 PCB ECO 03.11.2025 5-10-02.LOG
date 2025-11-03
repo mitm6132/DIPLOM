@@ -1,0 +1,36 @@
+Added Component: Designator=SW1(button)
+Added Component: Designator=SW2(button)
+Added Component: Designator=SW3(button)
+Added Pin To Net: NetName=NetDD2_15 Pin=SW1-1
+Added Pin To Net: NetName=+5V Pin=SW1-2
+Added Pin To Net: NetName=NetDD2_14 Pin=SW2-1
+Added Pin To Net: NetName=+5V Pin=SW2-2
+Added Pin To Net: NetName=NetR3_2 Pin=SW3-1
+Added Pin To Net: NetName=+5V Pin=SW3-2
+Add Pin To Net: Unknown Pin: Pin XS2-1
+Add Pin To Net: Unknown Pin: Pin XS2-2
+Add Pin To Net: Unknown Pin: Pin XS2-3
+Add Pin To Net: Unknown Pin: Pin XS2-4
+Add Pin To Net: Unknown Pin: Pin XS3-1
+Add Pin To Net: Unknown Pin: Pin XS3-2
+Add Pin To Net: Unknown Pin: Pin XS3-3
+Add Pin To Net: Unknown Pin: Pin XS3-4
+Add Pin To Net: Unknown Pin: Pin XS4-1
+Add Pin To Net: Unknown Pin: Pin XS4-2
+Add Pin To Net: Unknown Pin: Pin XS4-3
+Add Pin To Net: Unknown Pin: Pin XS4-4
+Add Pin To Net: Unknown Pin: Pin XS5-1
+Add Pin To Net: Unknown Pin: Pin XS5-2
+Add Pin To Net: Unknown Pin: Pin XS5-3
+Add Pin To Net: Unknown Pin: Pin XS5-4
+Add Pin To Net: Unknown Pin: Pin XS6-1
+Add Pin To Net: Unknown Pin: Pin XS6-2
+Add Pin To Net: Unknown Pin: Pin XS6-3
+Add Pin To Net: Unknown Pin: Pin XS6-4
+Add Pin To Net: Unknown Pin: Pin XS7-1
+Add Pin To Net: Unknown Pin: Pin XS7-2
+Add Pin To Net: Unknown Pin: Pin XS7-3
+Add Pin To Net: Unknown Pin: Pin XS7-4
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 button
+Added Member To Class: ClassName=Sheet1 Member=Component SW2 button
+Added Member To Class: ClassName=Sheet1 Member=Component SW3 button
