@@ -1,0 +1,151 @@
+Added Component: Designator=DA1(TP4057)
+Added Component: Designator=DD1(raspberryPiPico)
+Added Component: Designator=DD2(WEMOS)
+Added Component: Designator=HG1(OledI2C)
+Added Component: Designator=HL1(LED)
+Added Component: Designator=HL2(LED)
+Added Component: Designator=HL3(LED)
+Added Component: Designator=HL4(LED)
+Added Component: Designator=HL5(LED)
+Added Component: Designator=HL6(LED)
+Added Component: Designator=R1(Resistor)
+Added Component: Designator=R2(Resistor)
+Added Component: Designator=R3(Resistor)
+Added Component: Designator=SW1(button)
+Added Component: Designator=SW2(button)
+Added Component: Designator=SW3(button)
+Added Component: Designator=SW4(PowerButton)
+Added Component: Designator=XS1(18650ÐHolder)
+Added Component: Designator=XS2(gpio4 v2)
+Added Component: Designator=XS3(gpio4 v2)
+Added Component: Designator=XS4(gpio4 v2)
+Added Component: Designator=XS5(gpio4 v2)
+Added Component: Designator=XS6(gpio4 v2)
+Added Component: Designator=XS7(gpio4 v2)
+Added Component: Designator=XS8(ConnectionModule)
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=DD1-36
+Added Pin To Net: NetName=+3.3V Pin=HG1-1
+Added Pin To Net: NetName=+3.3V Pin=HL1-1
+Added Pin To Net: NetName=+3.3V Pin=HL2-1
+Added Pin To Net: NetName=+3.3V Pin=HL3-1
+Added Pin To Net: NetName=+3.3V Pin=HL4-1
+Added Pin To Net: NetName=+3.3V Pin=HL5-1
+Added Pin To Net: NetName=+3.3V Pin=HL6-1
+Added Pin To Net: NetName=+3.3V Pin=XS2-1
+Added Pin To Net: NetName=+3.3V Pin=XS3-1
+Added Pin To Net: NetName=+3.3V Pin=XS4-1
+Added Pin To Net: NetName=+3.3V Pin=XS5-1
+Added Pin To Net: NetName=+3.3V Pin=XS6-1
+Added Pin To Net: NetName=+3.3V Pin=XS7-1
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5V Pin=DD1-39
+Added Pin To Net: NetName=+5V Pin=DD2-9
+Added Pin To Net: NetName=+5V Pin=SW1-2
+Added Pin To Net: NetName=+5V Pin=SW2-2
+Added Pin To Net: NetName=+5V Pin=SW3-2
+Added Pin To Net: NetName=+5V Pin=SW4-2
+Added Pin To Net: NetName=+5V Pin=XS8-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=GND Pin=DA1-5
+Added Pin To Net: NetName=GND Pin=DD1-3
+Added Pin To Net: NetName=GND Pin=DD1-8
+Added Pin To Net: NetName=GND Pin=DD1-13
+Added Pin To Net: NetName=GND Pin=DD1-18
+Added Pin To Net: NetName=GND Pin=DD1-23
+Added Pin To Net: NetName=GND Pin=DD1-28
+Added Pin To Net: NetName=GND Pin=DD1-33
+Added Pin To Net: NetName=GND Pin=DD1-38
+Added Pin To Net: NetName=GND Pin=DD2-10
+Added Pin To Net: NetName=GND Pin=HG1-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=XS2-4
+Added Pin To Net: NetName=GND Pin=XS3-4
+Added Pin To Net: NetName=GND Pin=XS4-4
+Added Pin To Net: NetName=GND Pin=XS5-4
+Added Pin To Net: NetName=GND Pin=XS6-4
+Added Pin To Net: NetName=GND Pin=XS7-4
+Added Pin To Net: NetName=GND Pin=XS8-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetDA1_3 Pin=DA1-3
+Added Pin To Net: NetName=NetDA1_3 Pin=XS1-1
+Added Net: Name=NetDA1_3
+Added Pin To Net: NetName=NetDA1_4 Pin=DA1-4
+Added Pin To Net: NetName=NetDA1_4 Pin=XS1-2
+Added Net: Name=NetDA1_4
+Added Pin To Net: NetName=NetDA1_6 Pin=DA1-6
+Added Pin To Net: NetName=NetDA1_6 Pin=SW4-1
+Added Net: Name=NetDA1_6
+Added Pin To Net: NetName=NetDD1_1 Pin=DD1-1
+Added Pin To Net: NetName=NetDD1_1 Pin=HG1-4
+Added Net: Name=NetDD1_1
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_2 Pin=HG1-3
+Added Net: Name=NetDD1_2
+Added Pin To Net: NetName=NetDD1_6 Pin=DD1-6
+Added Pin To Net: NetName=NetDD1_6 Pin=XS2-2
+Added Pin To Net: NetName=NetDD1_6 Pin=XS3-2
+Added Pin To Net: NetName=NetDD1_6 Pin=XS4-2
+Added Pin To Net: NetName=NetDD1_6 Pin=XS5-2
+Added Pin To Net: NetName=NetDD1_6 Pin=XS6-2
+Added Pin To Net: NetName=NetDD1_6 Pin=XS7-2
+Added Net: Name=NetDD1_6
+Added Pin To Net: NetName=NetDD1_7 Pin=DD1-7
+Added Pin To Net: NetName=NetDD1_7 Pin=XS2-3
+Added Pin To Net: NetName=NetDD1_7 Pin=XS3-3
+Added Pin To Net: NetName=NetDD1_7 Pin=XS4-3
+Added Pin To Net: NetName=NetDD1_7 Pin=XS5-3
+Added Pin To Net: NetName=NetDD1_7 Pin=XS6-3
+Added Pin To Net: NetName=NetDD1_7 Pin=XS7-3
+Added Net: Name=NetDD1_7
+Added Pin To Net: NetName=NetDD1_9 Pin=DD1-9
+Added Pin To Net: NetName=NetDD1_9 Pin=XS8-5
+Added Net: Name=NetDD1_9
+Added Pin To Net: NetName=NetDD1_10 Pin=DD1-10
+Added Pin To Net: NetName=NetDD1_10 Pin=XS8-4
+Added Net: Name=NetDD1_10
+Added Pin To Net: NetName=NetDD1_11 Pin=DD1-11
+Added Pin To Net: NetName=NetDD1_11 Pin=DD1-12
+Added Pin To Net: NetName=NetDD1_11 Pin=XS8-3
+Added Net: Name=NetDD1_11
+Added Pin To Net: NetName=NetDD1_14 Pin=DD1-14
+Added Pin To Net: NetName=NetDD1_14 Pin=R2-2
+Added Pin To Net: NetName=NetDD1_14 Pin=SW2-1
+Added Net: Name=NetDD1_14
+Added Pin To Net: NetName=NetDD1_15 Pin=DD1-15
+Added Pin To Net: NetName=NetDD1_15 Pin=R1-2
+Added Pin To Net: NetName=NetDD1_15 Pin=SW1-1
+Added Net: Name=NetDD1_15
+Added Pin To Net: NetName=NetDD1_21 Pin=DD1-21
+Added Pin To Net: NetName=NetDD1_21 Pin=DD2-15
+Added Net: Name=NetDD1_21
+Added Pin To Net: NetName=NetDD1_22 Pin=DD1-22
+Added Pin To Net: NetName=NetDD1_22 Pin=DD2-16
+Added Net: Name=NetDD1_22
+Added Pin To Net: NetName=NetDD1_24 Pin=DD1-24
+Added Pin To Net: NetName=NetDD1_24 Pin=HL5-2
+Added Net: Name=NetDD1_24
+Added Pin To Net: NetName=NetDD1_25 Pin=DD1-25
+Added Pin To Net: NetName=NetDD1_25 Pin=HL6-2
+Added Net: Name=NetDD1_25
+Added Pin To Net: NetName=NetDD1_26 Pin=DD1-26
+Added Pin To Net: NetName=NetDD1_26 Pin=HL4-2
+Added Net: Name=NetDD1_26
+Added Pin To Net: NetName=NetDD1_27 Pin=DD1-27
+Added Pin To Net: NetName=NetDD1_27 Pin=HL3-2
+Added Net: Name=NetDD1_27
+Added Pin To Net: NetName=NetDD1_31 Pin=DD1-31
+Added Pin To Net: NetName=NetDD1_31 Pin=HL2-2
+Added Net: Name=NetDD1_31
+Added Pin To Net: NetName=NetDD1_32 Pin=DD1-32
+Added Pin To Net: NetName=NetDD1_32 Pin=HL1-2
+Added Net: Name=NetDD1_32
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=SW3-1
+Added Net: Name=NetR3_2
+Added Class: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
